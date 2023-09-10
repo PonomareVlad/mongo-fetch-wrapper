@@ -17,5 +17,5 @@
     "bson": "*",
     "mongo-fetch": "*"
   },
-  "main": "../mongo-fetch/index.js"
+  "main": "./index.js"
 }

@@ -16,5 +16,5 @@
   "dependencies": {
     "mongo-fetch": "*"
   },
-  "main": "./node_modules/mongo-fetch/index.js"
+  "main": "../mongo-fetch/index.js"
 }

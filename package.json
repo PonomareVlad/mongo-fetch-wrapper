@@ -14,6 +14,7 @@
     "url": "https://github.com/PonomareVlad/mongo-fetch-wrapper/issues"
   },
   "dependencies": {
+    "bson": "*",
     "mongo-fetch": "*"
   },
   "main": "../mongo-fetch/index.js"

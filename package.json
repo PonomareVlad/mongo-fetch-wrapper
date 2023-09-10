@@ -1,0 +1,20 @@
+{
+  "license": "MIT",
+  "version": "0.0.0",
+  "name": "mongo-fetch-wrapper",
+  "description": "Wrapper for MongoDB driver using mongo-fetch",
+  "homepage": "https://github.com/PonomareVlad/mongo-fetch-wrapper#readme",
+  "author": "Vladislav Ponomarev <PonomareVlad@users.noreply.github.com> (https://PonomareVlad.ru)",
+  "funding": "https://PonomareVlad.ru/donate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonomareVlad/mongo-fetch-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PonomareVlad/mongo-fetch-wrapper/issues"
+  },
+  "dependencies": {
+    "mongo-fetch": "*"
+  },
+  "main": "./node_modules/mongo-fetch/index.js"
+}
